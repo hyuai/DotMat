@@ -11,7 +11,7 @@
 	},
 	"dependencies": {
 		"nativescript-theme-core": "~1.0.4",
-		"tns-core-modules": "~4.0.0"
+		"tns-core-modules": "^4.0.1"
 	},
 	"devDependencies": {
 		"babel-traverse": "6.4.5",
@@ -19,6 +19,6 @@
 		"babylon": "6.4.5",
 		"lazy": "1.0.11",
 		"nativescript-dev-typescript": "~0.7.0",
-		"typescript": "^2.7.2"
+		"typescript": "^2.8.3"
 	}
 }
